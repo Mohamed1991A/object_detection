@@ -46,6 +46,6 @@ pip3 install matplotli
 RUN 
 pip3 --no-cache-dir install tensorflow-gpu==1.13.0
 # install open cv4
-# see this link
+# follow this link
 https://www.pyimagesearch.com/2018/08/15/how-to-install-opencv-4-on-ubuntu/
 
